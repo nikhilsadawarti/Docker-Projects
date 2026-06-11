@@ -1,8 +1,6 @@
-# Docker
+# Learn Docker with examples
 
-Learn Docker with examples
-
-# #  INSTALL DOCKER
+INSTALL DOCKER
 
 A very detailed instructions to install Docker are provide in the below link
 
@@ -50,7 +48,7 @@ Run Docker Container
 ```
 docker run -it <IMAGE ID>
 ```
-
+Port mapping on container 
 ```
 docker run -p 8000:8000 -it <IMAGE ID>
 ```
