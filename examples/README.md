@@ -52,4 +52,4 @@ Port mapping on container
 ```
 docker run -p 8000:8000 -it <IMAGE ID>
 ```
-Open browser and access http://<PUBLICIP>:8000/demo/
+Open browser and access http://PUBLICIP:8000/demo/
